@@ -1,8 +1,8 @@
-# 🌤️ Flutter Weather App
+Flutter Weather App
 
 A modern weather application built with Flutter that displays real-time weather and forecast data using the OpenWeather API.
 
-## ✨ Features
+Features
 
 - Search weather by city
 - Current location weather (Geolocator)
@@ -12,7 +12,7 @@ A modern weather application built with Flutter that displays real-time weather 
 - Detailed weather bottom sheet
 - Pull-to-refresh
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Flutter (Dart)
 - HTTP package (API calls)
@@ -21,18 +21,18 @@ A modern weather application built with Flutter that displays real-time weather 
 - Geolocator (location services)
 - Lottie (animations)
 
-## 📱 How it works
+How it works
 
 The app sends requests to the OpenWeather API, parses JSON responses, and updates the UI dynamically using Flutter state management.
 
-## 🚀 Getting Started
+Getting Started
 
 1. Clone the repo
 2. Run `flutter pub get`
 3. Add your OpenWeather API key
 4. Run the app
 
-## 🔮 Future Improvements
+Future Improvements
 
 - Better state management (Provider/Riverpod)
 - Caching API responses
